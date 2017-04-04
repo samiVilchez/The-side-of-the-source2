@@ -43,7 +43,8 @@ Abres la cónsola, esquina superior con el puntero sin clicar y escribes:
 Hemos copiado el truco de turno, para nuestro game, o hemos encontrado un
 parche, de la _o***_ y queremos compartirlo con el mundo. 
 
-- copiamos el archivo al repositorio.
+- copiamos el archivo al repositorio.  
+
     $ git add .
 
 Esto añade todo. todo lo que hayamos metido ahí, será _registrado_ para 
